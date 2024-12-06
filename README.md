@@ -26,9 +26,8 @@ The framework ensures data-driven decision-making to improve productivity, resou
   - **Data Encryption**: Ensures data safety at rest and in transit.
 
 For detailed architecture, refer to the following diagram:
-
-👉 **[AMINAT PROJECT LATEST.Drawio](./AMINAT%20PROJECT%20LATEST.Drawio)**
----
+- **Project View**:
+  👉 **[AMINAT PROJECT 2.Drawio](./AMINAT%20PROJECT%202.Drawio)**
 
 ## **Objectives**
 1. **Understand Remote Work Trends**:

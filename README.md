@@ -1,4 +1,4 @@
-# Project UCW-portfolio
+# Project UCW-portfolio  
 # **Remote Work Analysis and Optimization Framework**
 
 ## **Overview**
@@ -25,6 +25,9 @@ The framework ensures data-driven decision-making to improve productivity, resou
   - **IAM Roles**: Role-based access control.
   - **Data Encryption**: Ensures data safety at rest and in transit.
 
+For detailed architecture, refer to the following diagram:
+
+👉 **[AMINAT PROJECT LATEST.Drawio](./AMINAT%20PROJECT%20LATEST.Drawio)**
 ---
 
 ## **Objectives**

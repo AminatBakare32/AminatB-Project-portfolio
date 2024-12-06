@@ -28,6 +28,8 @@ The framework ensures data-driven decision-making to improve productivity, resou
 For detailed architecture, refer to the following diagram:
 - **Project View**:
   👉 **[AMINAT PROJECT 2.Drawio](./AMINAT%20PROJECT%202.Drawio)**
+  ![image](https://github.com/user-attachments/assets/0f84024b-b5b9-4578-a58d-b32812813b68)
+
 
 ## **Objectives**
 1. **Understand Remote Work Trends**:

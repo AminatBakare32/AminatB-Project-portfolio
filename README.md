@@ -6,6 +6,7 @@ This project is designed to analyze and optimize remote work practices by levera
 1. **Employee Eligibility**: Who qualifies for remote work?
 2. **Performance Tracking**: How does remote work impact productivity?
 3. **Resource Allocation**: Is equipment distribution aligned with employee needs?
+Performed the descriptive, exploratory, and diagnostic analysis of this project.
 
 The framework ensures data-driven decision-making to improve productivity, resource allocation, and policy compliance.
 

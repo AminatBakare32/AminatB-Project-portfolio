@@ -1,5 +1,6 @@
 # Project UCW-portfolio  
-# **Remote Work Analysis and Optimization Framework**
+Overview of three projects
+# **Remote Work Analysis and Optimization Framework** -1
 
 ## **Overview**
 This project is designed to analyze and optimize remote work practices by leveraging AWS cloud infrastructure and data engineering methodologies. It focuses on three critical aspects:
@@ -83,4 +84,65 @@ For detailed architecture, refer to the following diagram:
    - Automated workflows for ingestion, ETL, and observability.
 4. **Governance Reports**:
    - Understanding of remote work Policies for data governance and security compliance by Employees.
+  
+---
+## PROJECT 2- PREDICTIVE ANALYSIS
+  
+  # **Credit Level Prediction: A Machine Learning Approach** 
+
+## **Overview**
+This project develops a machine learning model to classify customers into three credit levels: **Low**, **Medium**, and **High**. It supports financial institutions in improving credit approvals, optimizing credit limits, and setting interest rates, enhancing financial risk management.
+
+---
+
+## **Problem Statement**
+The goal is to accurately classify customers into credit levels based on their demographic, financial, and transactional features. Correct classification helps institutions manage credit risk effectively and make informed financial decisions.
+
+---
+
+## **Dataset**
+- **Records**: 10,167 customer profiles.
+- **Features**: 20 attributes, including age, income, credit limit, and transaction details.
+- **Categories**:
+  - **Demographic**: Age, gender, education level.
+  - **Financial**: Income category, credit limit.
+  - **Transactional**: Total transaction amount, transaction count, and more.
+
+---
+
+## **Methodology**
+1. **Data Preprocessing**:
+   - Handled missing values (median/mode imputation).
+   - Addressed outliers using trimming and capping.
+   - Scaled and one-hot encoded features for consistency.
+2. **Feature Engineering**:
+   - Created interaction terms (e.g., utilization ratio).
+   - Derived new features (e.g., average transaction amount).
+3. **Modeling**:
+   - Used Random Forest Classifier for its robustness and accuracy.
+   - Applied k-fold cross-validation and hyperparameter tuning via Grid Search.
+4. **Evaluation**:
+   - Achieved **86% accuracy** with strong performance metrics (Precision: 84%-90%, Recall: 79%-92%).
+
+---
+
+## **Key Insights**
+- Top predictors: Credit Limit, Total Revolving Balance, and Avg Utilization Ratio.
+- Demographics like Age and Income Category also influenced credit risk classification.
+
+---
+
+## **Recommendations**
+- Integrate real-time data for dynamic model updates.
+- Explore advanced models (e.g., deep learning) for enhanced accuracy.
+- Incorporate unstructured data (e.g., customer logs, social media) for deeper insights.
+
+---
+
+## **Tools and Technologies**
+- **Programming**: Python (Pandas, NumPy, scikit-learn).
+- **Visualization**: Matplotlib, Seaborn, Jupyter Notebooks.
+- **Modeling**: Random Forest Classifier.
+
+
 

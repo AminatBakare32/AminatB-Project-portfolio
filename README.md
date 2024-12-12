@@ -144,5 +144,60 @@ The goal is to accurately classify customers into credit levels based on their d
 - **Visualization**: Matplotlib, Seaborn, Jupyter Notebooks.
 - **Modeling**: Random Forest Classifier.
 
+  
+---
+## PROJECT 3- # Data Wrangling for Enhanced Customer Analytics at SUPERSTORE SALES COMPANY
+
+## Project Title
+Data Wrangling for Enhanced Customer Analytics at Superstore Sales Company
+
+## Objective
+The primary goal of this project is to perform comprehensive data wrangling to prepare a robust dataset for customer analytics at the Superstore Company. By cleaning, transforming, and consolidating data from various sources, the project aims to enhance the accuracy and usability of customer data for subsequent analysis and reporting.
+
+## Background
+Superstore Company has accumulated customer data from multiple channels, including sales transactions, customer service interactions, and marketing campaigns. However, this data is often inconsistent, incomplete, or fragmented, making it challenging to derive meaningful insights. Effective data wrangling will facilitate better decision-making and more targeted marketing strategies.
+
+## Dataset
+The data wrangling process involves:
+1. Sales Data: Transaction records including customer IDs, purchase amounts, product details, and timestamps.
+2. Customer Information: Demographic details such as age, gender, location, and account creation date.
+3. Customer Service Records: Logs of customer inquiries, complaints, and resolutions.
+4. Marketing Interaction Data: Email and campaign response data, including open rates and click-through rates.
+
+## Methodology
+1. **Data Collection**:
+   - Gather datasets from various sources, including internal databases and marketing platforms.
+2. **Data Assessment**:
+   - Identify missing values, duplicates, and inconsistencies.
+3. **Data Cleaning**:
+   - Remove duplicates, handle missing values, and standardize formats.
+4. **Data Transformation**:
+   - Derive new features and aggregate data.
+5. **Data Consolidation**:
+   - Merge datasets into a unified database using unique identifiers.
+6. **Validation and Documentation**:
+   - Conduct exploratory data analysis (EDA) and document the process.
+
+## Tools and Technologies
+- **Python** (Pandas, NumPy) for data manipulation and cleaning.
+- **SQL** for data extraction and initial assessment of relational databases.
+- **AWS Services**: S3, Glue, Athena, and QuickSight.
+- **Visualization Tools**: Matplotlib, Seaborn, and Amazon QuickSight.
+- output/sales_distribution_by_product_line
+
+![image](https://github.com/user-attachments/assets/de30e7a1-1cdf-45d4-a043-980a1265d3ff)
 
 
+The "Total Sales Distribution by Product Line" visualization highlights top-performing product lines, enabling businesses to prioritize inventory and marketing efforts effectively. High-revenue categories warrant focused strategies to sustain growth, while underperforming lines offer opportunities for targeted promotions or reevaluation. By aligning resources with revenue potential, businesses can optimize their product portfolio, improve profitability, and enhance competitiveness in the market through data-driven decision-making.
+
+## Deliverables
+1. A cleaned and transformed customer dataset ready for analysis, available in CSV format.
+2. A comprehensive report documenting the data wrangling process.
+3. Visualizations illustrating key data insights and validations.
+
+## Timeline
+The project will be completed within six weeks:
+1. Data Collection and Assessment: Week 1-2
+2. Data Cleaning and Transformation: Week 3-4
+3. Consolidation, Validation, and Documentation: Week 5
+4. Reporting and Visualization: Week 6

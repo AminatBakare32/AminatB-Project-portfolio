@@ -181,9 +181,9 @@ The data wrangling process involves:
 ## Tools and Technologies
 - **Python** (Pandas, NumPy) for data manipulation and cleaning.
 - **SQL** for data extraction and initial assessment of relational databases.
-- **AWS Services**: S3, Glue, Athena, and QuickSight.
-- **Visualization Tools**: Matplotlib, Seaborn, and Amazon QuickSight.
-- output/sales_distribution_by_product_line
+- **AWS Services**: S3, Glue and Athena.
+- **Visualization Tools**: Matplotlib, Seaborn (Python).
+- Output/sales_distribution_by_product_line
 
 ![image](https://github.com/user-attachments/assets/de30e7a1-1cdf-45d4-a043-980a1265d3ff)
 
